@@ -12,6 +12,7 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 
 A and B have the same number of nodes, we will call this number n  
 One to one function means that every node in A maps to a unique node in B  
+Onto function means that every node in B is mapped to by a node in A
 We can label every node in each graph as A<sub>1</sub>, A<sub>2</sub> ... A<sub>n</sub>, and B<sub>1</sub>, B<sub>2</sub> ... B<sub>n</sub>  
 We can prove that a one to one and onto function exists by matching A<sub>x</sub> to B<sub>x</sub>, with x being the number given from 1 to n. Since n is equal for both, there is the same amount of A<sub>x</sub>s and B<sub>x</sub>s. This means that there is a unique node pairing for every node in A to every node in B, and every node in A is paired with a node in B, as well as the vice versa of both of those. Therefor one to one and onto.  
 Now we must show our function preserves each edge  
